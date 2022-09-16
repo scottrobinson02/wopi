@@ -1,0 +1,18 @@
+{
+    "title":"TestTitle 1",
+    "axesNames":["ValueA", "ValueB", "ValueC", "ValueD", "ValueE", "ValueF","ValueG","ValueH"],
+    "groups":[
+        {
+        "group":"One",
+        "axesValues":[4,11,20,25,32,47,33,20]
+        }
+        ,
+        {
+        "group":"Two",
+        "axesValues":[14,31,44,50,23,12,3,19]
+        }
+        
+        ]
+
+}
+    
